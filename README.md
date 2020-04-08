@@ -1,2 +1,2 @@
-# Online-Meeting-Scheduler
+# Online Meeting Scheduler
 Online meeting Scheduler
